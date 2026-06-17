@@ -62,15 +62,15 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=expediator&show_icons=true&theme=tokyonight&hide_border=true&title_color=7fc4ff&icon_color=3b9eff&text_color=c7cad1" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=expediator&show_icons=true&theme=tokyonight&hide_border=true&title_color=7fc4ff&icon_color=3b9eff&text_color=c7cad1&cache_seconds=1800&include_all_commits=true&count_private=true" height="165" alt="GitHub stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expediator&layout=compact&theme=tokyonight&hide_border=true&title_color=7fc4ff&text_color=c7cad1" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expediator&layout=compact&theme=tokyonight&hide_border=true&title_color=7fc4ff&text_color=c7cad1&cache_seconds=1800&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=expediator&theme=tokyonight&hide_border=true&ring=3b9eff&fire=bfa3ff&currStreakLabel=7fc4ff" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=expediator&theme=tokyonight&hide_border=true&ring=3b9eff&fire=bfa3ff&currStreakLabel=7fc4ff&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
 
 </div>
 
