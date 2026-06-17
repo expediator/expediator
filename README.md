@@ -2,14 +2,14 @@
 
 # Hey, I'm Akshansh Yadav 👋
 
-**Full-Stack & Web3 Developer · CS Self-Learner · B.Tech Civil Engg @ HBTU Kanpur**
+**Full-Stack & Web3 Developer · CS Self-Learner**
 
 CS self-learner who ships. I build full-stack web apps, computer vision tools, and embedded systems — from a live CEX+DEX crypto exchange to a gesture-controlled RC car. Currently exploring Web3, Solana, and cloud infrastructure.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-expediator.github.io%2Fresume-3b9eff?style=flat-square&logo=github)](https://expediator.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshansh--yadav-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/akshansh-yadav-554926304)
 [![X](https://img.shields.io/badge/X-@expediator__-000000?style=flat-square&logo=x)](https://x.com/expediator_)
-[![Email](https://img.shields.io/badge/Email-250102005@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:250102005@gmail.com)
+[![Email](https://img.shields.io/badge/Email-250102005@HBTU.AC.IN-EA4335?style=flat-square&logo=gmail)](mailto:250102005@HBTU.AC.IN)
 
 </div>
 
@@ -35,13 +35,17 @@ CS self-learner who ships. I build full-stack web apps, computer vision tools, a
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Libraries & APIs**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Upstash](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square)
+![CoinGecko API](https://img.shields.io/badge/CoinGecko_API-8DC647?style=flat-square)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **Exploring**
@@ -55,14 +59,14 @@ CS self-learner who ships. I build full-stack web apps, computer vision tools, a
 
 ## 🚀 Projects
 
-| Project | Description | Live | Stack |
-|---------|-------------|------|-------|
-| **[SwapX — CEX + DEX Exchange](https://github.com/expediator/swapx-dex)** | Full-stack crypto trading platform with CEX order-book and DEX AMM swaps. 30+ tokens, real-time CoinGecko prices cached in Redis, Google OAuth login. | [Live →](https://easygoing-motivation-production.up.railway.app) | Next.js · Redis · TypeScript · NextAuth |
-| **[FaceMetrics — AI Facial Analysis](https://github.com/expediator/face-rater)** | 468-landmark facial geometry analysis, 100% in-browser. 16-version evolution from Python CLI to web app. Webcam + auto brightness. | [Try →](https://expediator.github.io/face-rater/) | MediaPipe · Canvas API · JavaScript · Python |
-| **[Gesture & Voice RC Car](https://github.com/expediator/gesture-controlled-robot)** | ESP32 RC car controlled by hand gestures (MediaPipe) and offline voice commands (Vosk, English + Hindi) over UDP. Built solo in 4 weeks. | — | Arduino · OpenCV · Python · Embedded C |
-| **[Space Shooter](https://github.com/expediator/space-shooter)** | 2D arcade game with thrust+inertia physics, two AI enemy types, power-up drops. Rewritten from Python/pygame to pure JS Canvas — runs instantly in-browser. | [Play →](https://expediator.github.io/space-shooter/) | JavaScript · Canvas API · Python/pygame |
-| **[Tic-Tac-Toe AI](https://github.com/expediator/tic-tac-toe)** | Three implementations: browser (minimax AI, unbeatable), Python CLI, and C version. | [Play →](https://expediator.github.io/tic-tac-toe/) | JavaScript · Python · C · Minimax |
-| **[Interactive Portfolio](https://github.com/expediator/resume)** | Windows-OS style draggable desktop resume with music player, GitHub heatmap, rotating wallpapers. | [Visit →](https://expediator.github.io/resume/) | HTML · CSS · JS · GitHub Pages |
+| Project | Year | Description | Live | Stack |
+|---------|------|-------------|------|-------|
+| **[SwapX — CEX + DEX Exchange](https://github.com/expediator/swapx-dex)** | 2026 | Full-stack crypto trading platform with CEX order-book and DEX AMM swaps. 30+ tokens, real-time CoinGecko prices cached in Redis, Google OAuth login, per-user portfolio. | [Live →](https://easygoing-motivation-production.up.railway.app) | Next.js · Redis · TypeScript · NextAuth |
+| **[FaceMetrics — AI Facial Analysis](https://github.com/expediator/face-rater)** | 2026 | 468-landmark facial geometry analysis, 100% in-browser. 16-version evolution. Webcam capture + auto brightness enhancement. | [Try →](https://expediator.github.io/face-rater/) | MediaPipe · Canvas API · JS · Python |
+| **[Gesture & Voice RC Car](https://github.com/expediator/gesture-controlled-robot)** | 2025 | ESP32 RC car controlled by hand gestures (MediaPipe) and offline voice commands (Vosk, English + Hindi) over UDP. Built solo in 4 weeks. | — | Arduino · OpenCV · Python · Embedded C |
+| **[Space Shooter](https://github.com/expediator/space-shooter)** | 2025 | 2D arcade game rewritten from Python/pygame to pure JS Canvas. Thrust+inertia physics, two AI enemy types, power-ups. | [Play →](https://expediator.github.io/space-shooter/) | JavaScript · Canvas API · Python/pygame |
+| **[Tic-Tac-Toe AI](https://github.com/expediator/tic-tac-toe)** | 2025 | Three implementations: browser (minimax AI, unbeatable), Python CLI, and C. | [Play →](https://expediator.github.io/tic-tac-toe/) | JavaScript · Python · C · Minimax |
+| **[Interactive Portfolio](https://github.com/expediator/resume)** | 2025 | Windows-OS style draggable desktop resume with music player, GitHub heatmap, rotating wallpapers. | [Visit →](https://expediator.github.io/resume/) | HTML · CSS · JS · GitHub Pages |
 
 ---
 
@@ -84,15 +88,6 @@ CS self-learner who ships. I build full-stack web apps, computer vision tools, a
 
 ---
 
-## 🎓 Education & Achievements
-
-- 🏛 **B.Tech Civil Engineering** — Harcourt Butler Technical University, Kanpur (2025–2029)
-- 📝 **JEE Mains** — Qualified 2024 & 2025 | **JEE Advanced** — Appeared 2024 & 2025
-- 🏆 **SOF Olympiads** (Class 11) — English: Intl. Rank 240 · Science: 1084 · Maths: 3872
-- ✈️ RC Plane Development — design, assembly & flight testing
-
----
-
 ## 🌐 Interests
 
 `Web3 & DeFi` `Blockchain Infrastructure` `Solana` `Ethereum` `Smart Contracts`
@@ -100,7 +95,18 @@ CS self-learner who ships. I build full-stack web apps, computer vision tools, a
 
 ---
 
+## 🏆 Achievements
+
+- Qualified JEE Mains 2024 & 2025 | Appeared for JEE Advanced 2024 & 2025
+- SOF Olympiads (Class 11) — English: Intl. Rank 240 · Science: 1084 · Maths: 3872
+- RC Plane Development — design, assembly & flight testing
+- Co-Founded Simbha Kunj Foundation (NGO) — animal welfare & student support
+
+---
+
 <div align="center">
+
+🎓 **B.Tech — Harcourt Butler Technical University (HBTU), Kanpur** · 2025–2029
 
 📄 **[Download Resume PDF](https://expediator.github.io/resume/assets/Akshansh-Yadav-Resume.pdf)** &nbsp;·&nbsp; 🌐 **[Interactive Portfolio](https://expediator.github.io/resume/)**
 
