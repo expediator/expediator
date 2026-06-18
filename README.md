@@ -35,6 +35,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 **Auth, Data & Validation**
 
@@ -45,12 +46,14 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API_Design-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 **UI & Visualization**
 
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square)
 ![Lucide](https://img.shields.io/badge/Lucide_React-F56565?style=flat-square)
 ![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![CoinGecko API](https://img.shields.io/badge/CoinGecko_API-8DC647?style=flat-square)
 
 **CV, ML & Embedded**
@@ -61,6 +64,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino%2FESP32-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
 
 **DevOps & Infrastructure**
 
