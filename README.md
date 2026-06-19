@@ -24,6 +24,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_(learning)-000000?style=flat-square&logo=rust&logoColor=white)
@@ -36,6 +37,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Auth, Data & Validation**
 
@@ -45,6 +47,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API_Design-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
@@ -63,6 +66,8 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![Vosk](https://img.shields.io/badge/Vosk_STT-333333?style=flat-square)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino%2FESP32-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
 
@@ -74,6 +79,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(learning)-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_(learning)-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%2FUbuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 **Web3 (Actively Exploring)**
 
@@ -92,7 +98,6 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F55F22?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![PEFT / LoRA](https://img.shields.io/badge/PEFT_%2F_LoRA-7C3AED?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=flat-square)
 
 ---
