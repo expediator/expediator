@@ -84,6 +84,17 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=flat-square&logo=solidity&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi_%26_AMM-00B4D8?style=flat-square)
 
+**AI & LLMs (Actively Exploring)**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F55F22?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![PEFT / LoRA](https://img.shields.io/badge/PEFT_%2F_LoRA-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=flat-square)
+
 ---
 
 ## 🌐 Interests
