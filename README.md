@@ -76,6 +76,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(learning)-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker_(learning)-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -99,6 +100,19 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F55F22?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0EA5E9?style=flat-square)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Live |
+|---------|-------|------|
+| **SwapX** — CEX + DEX crypto exchange | Next.js 14 · TypeScript · Redis · NextAuth · Railway | [Live](https://easygoing-motivation-production.up.railway.app) · [GitHub](https://github.com/expediator/swapx-dex) |
+| **FaceMetrics** — AI facial geometry analysis (468 landmarks, 100% in-browser) | JavaScript · MediaPipe FaceMesh · Canvas API · Python | [Live](https://expediator.github.io/face-rater/) · [GitHub](https://github.com/expediator/face-rater) |
+| **Gesture + Voice RC Car** — OpenCV + Vosk + ESP32 embedded | Python · OpenCV · MediaPipe · Vosk · Embedded C · UDP | [GitHub](https://github.com/expediator/gesture-controlled-robot) |
+| **Plinth Civil Consultancy** — professional consultancy website | Next.js 14 · TypeScript · Tailwind CSS · Vercel | [Live](https://civil-site-gray.vercel.app) · [GitHub](https://github.com/expediator/civil-site) |
+| **Space Shooter** — 2D arcade game (physics, AI enemies, particles) | JavaScript · Canvas API | [Play](https://expediator.github.io/space-shooter/) · [GitHub](https://github.com/expediator/space-shooter) |
+| **Interactive Portfolio** — Windows-OS style draggable resume | HTML · CSS · JavaScript | [Live](https://expediator.github.io/resume/) |
 
 ---
 
