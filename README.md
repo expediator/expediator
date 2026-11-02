@@ -4,7 +4,7 @@
 
 **Full-Stack & Web3 Developer · Independent Builder**
 
-Building at the intersection of TypeScript, Web3, and embedded systems. Ships products across full-stack web, computer vision, and hardware — driven by curiosity and a bias for action.
+Building at the intersection of TypeScript, Web3, and embedded systems. Ships products across full-stack web, computer vision, and hardware — driven by curiosity and a bias for action. Founder of **Expediator Inc.** — all products ship under this entity.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-expediator.github.io%2Fresume-3b9eff?style=flat-square&logo=github)](https://expediator.github.io/resume/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akshansh--yadav-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/akshansh-yadav-554926304)
@@ -32,22 +32,23 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 
 **Frameworks & Runtime**
 
-![Next.js](https://img.shields.io/badge/Next.js_14_App_Router-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16_App_Router-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM_v5-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Auth, Data & Validation**
 
-![NextAuth](https://img.shields.io/badge/NextAuth.js_v4-000000?style=flat-square&logo=auth0&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js_v5-000000?style=flat-square&logo=auth0&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat-square&logo=google&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Upstash](https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_Postgres-00E699?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API_Design-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
@@ -91,8 +92,9 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-363636?style=flat-square&logo=solidity&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi_%26_AMM-00B4D8?style=flat-square)
 
-**AI & LLMs (Actively Exploring)**
+**AI & LLMs**
 
+![Groq](https://img.shields.io/badge/Groq_API_(Llama_3.3)-FF4800?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -107,6 +109,7 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 
 | Project | Stack | Live |
 |---------|-------|------|
+| **CareerVerse AI** — AI-powered career prep (mock interviews, aptitude, resume analysis, domain labs, 36 routes) | Next.js 16 · TypeScript · Tailwind v4 · NextAuth v5 · Prisma v5 · Groq AI · Neon · Vercel | [Live](https://careerverse-ai-sigma.vercel.app) · [GitHub](https://github.com/expediator/careerverse-ai) |
 | **SwapX** — CEX + DEX crypto exchange | Next.js 14 · TypeScript · Redis · NextAuth · Railway | [Live](https://easygoing-motivation-production.up.railway.app) · [GitHub](https://github.com/expediator/swapx-dex) |
 | **FaceMetrics** — AI facial geometry analysis (468 landmarks, 100% in-browser) | JavaScript · MediaPipe FaceMesh · Canvas API · Python | [Live](https://expediator.github.io/face-rater/) · [GitHub](https://github.com/expediator/face-rater) |
 | **Gesture + Voice RC Car** — OpenCV + Vosk + ESP32 embedded | Python · OpenCV · MediaPipe · Vosk · Embedded C · UDP | [GitHub](https://github.com/expediator/gesture-controlled-robot) |
@@ -134,9 +137,9 @@ Building at the intersection of TypeScript, Web3, and embedded systems. Ships pr
 
 <div align="center">
 
-🎓 **HBTU Kanpur** · 2025–2029
+🎓 **HBTU Kanpur** · 2025–2029 &nbsp;·&nbsp; 🏢 **Expediator Inc.** — all products ship under this entity
 
-📄 **[Download Resume PDF](https://expediator.github.io/resume/assets/Akshansh-Yadav-Resume.pdf)** &nbsp;·&nbsp; 🌐 **[Interactive Portfolio](https://expediator.github.io/resume/)**
+📄 **[Download Resume PDF](https://expediator.github.io/resume/assets/Akshansh-Yadav-Resume.pdf)** &nbsp;·&nbsp; 🌐 **[Interactive Portfolio](https://expediator.github.io/resume/)** &nbsp;·&nbsp; 🚀 **[CareerVerse AI](https://careerverse-ai-sigma.vercel.app)**
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=expediator.expediator&style=flat-square&color=3b9eff&left_text=profile+views)
 
